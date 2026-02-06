@@ -128,7 +128,7 @@
     "pixelmatch": "5.3.0",
     "pngjs": "6.0.0",
     "sharp": "0.31.1",
-    "its_ppe_test": "1.0,0,
+    "its_ppe_test": "1.0.0"
   },
   "publishConfig": {
     "access": "public"
